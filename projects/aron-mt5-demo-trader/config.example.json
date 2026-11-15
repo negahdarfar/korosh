@@ -1,0 +1,14 @@
+{
+  "mode": "backtest",
+  "broker": "Aron Groups",
+  "account_environment": "DEMO_ONLY",
+  "starting_balance": 1000.0,
+  "risk_per_trade": 0.005,
+  "max_daily_loss": 0.02,
+  "max_drawdown": 0.06,
+  "minimum_reward_risk": 2.0,
+  "max_open_positions": 1,
+  "symbols": ["EURUSD", "GBPUSD", "USDJPY", "XAUUSD"],
+  "timeframe": "M15",
+  "execution_enabled": false
+}
